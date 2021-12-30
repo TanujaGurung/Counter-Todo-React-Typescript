@@ -1,3 +1,6 @@
+you can see the preview of the counter here: https://tunww.csb.app/
+If Todo is needed then kindly import the ToDo component in app and use to to see TODO application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
